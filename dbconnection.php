@@ -7,3 +7,5 @@ $dbname="college";
 
 $con=mysqli_connect($hostname,$dbuser,$dbpass,$dbname);
 ?>
+
+Hello Madam
